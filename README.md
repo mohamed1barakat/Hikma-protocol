@@ -128,4 +128,11 @@ This whitepaper is not a company prospectus. It is a call for a movement. We inv
 · Learners: To be the first to liberate their knowledge from the credential prison.
 
 Together, we build a world where no one asks "Where did you study?", but rather, "What can you do?"
+---
+
+## Proof of Existence
+The SHA256 hash of this whitepaper is permanently recorded on the Ethereum blockchain:
+`988731ed6b43c9e8adcb3a0e1d9c21a9ea922c25509a38f6a46f65f7d830bde1`
+
+View the on-chain proof: [Etherscan Verified Signature](https://etherscan.io/verifySig/319217)
 
